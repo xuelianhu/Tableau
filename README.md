@@ -27,3 +27,9 @@ The focus is on building some intermediate Tableau charts and getting very famil
 
 ![KingCountyHouseSales](https://github.com/user-attachments/assets/99d35811-8fed-4771-ab9c-1cfdb13d575e)
 
+### 5. Customer Lifetime Value(CLTV) Matrix
+Customer Lifetime Value (CLV) Matrix, a tool that marketers use to segment customers based on their value and loyalty to a business. This helps marketers allocate resources and efforts more efficiently. According to a 2018 survey, 25% of marketers rank CLV among their top 5 metrics. 
+
+![Super Store -CLTV Matrix](https://github.com/user-attachments/assets/c7199590-d141-4271-aa1c-4115187212d6)
+
+
