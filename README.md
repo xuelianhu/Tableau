@@ -32,4 +32,15 @@ Customer Lifetime Value (CLV) Matrix, a tool that marketers use to segment custo
 
 ![Super Store -CLTV Matrix](https://github.com/user-attachments/assets/c7199590-d141-4271-aa1c-4115187212d6)
 
+### 6. YTD vs PYTD Sales
+Can you show YTD and PYTD, whilst also being able to change the date range and switch between Month & Week?
+When clients want to select which year they are looking at to see YTD, be able to compare that to Prior Year to Date (PYTD), BUT they also want to be able to control a date range, whilst also being able to see that over time either by Month or by Week.
+
+
+
+<img width="719" alt="Screenshot 2024-09-25 at 17 46 12" src="https://github.com/user-attachments/assets/2bcc2ae0-96ca-423e-b3d4-ca17e250590a">
+
+
+
+
 
